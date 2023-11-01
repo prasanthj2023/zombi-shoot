@@ -1,3 +1,3 @@
 # Zombie-Game
 
-<h1><u>link to the game</u></h1>
+<h4><b>link to the game</b></h4>
