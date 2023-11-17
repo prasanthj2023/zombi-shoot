@@ -1,3 +1,3 @@
 # Zombie-Game
 
-<h4><a href="https://dilasathapa.github.io/zombi-shoot/win.html">link to the game</a></h4>
+<h4><a href="https://prasanthj2023.github.io/zombi-shoot/">Play Now</a></h4>
